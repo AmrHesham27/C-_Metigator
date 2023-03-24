@@ -1,0 +1,15 @@
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\bin\Debug\net6.0\14-enums.exe
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\bin\Debug\net6.0\14-enums.deps.json
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\bin\Debug\net6.0\14-enums.runtimeconfig.json
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\bin\Debug\net6.0\14-enums.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\bin\Debug\net6.0\14-enums.pdb
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.csproj.AssemblyReference.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.AssemblyInfoInputs.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.AssemblyInfo.cs
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.csproj.CoreCompileInputs.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\refint\14-enums.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.pdb
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\14-enums.genruntimeconfig.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\14-enums\obj\Debug\net6.0\ref\14-enums.dll

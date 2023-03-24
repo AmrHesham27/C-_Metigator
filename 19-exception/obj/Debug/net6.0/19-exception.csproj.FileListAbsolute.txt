@@ -1,0 +1,15 @@
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\bin\Debug\net6.0\19-exception.exe
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\bin\Debug\net6.0\19-exception.deps.json
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\bin\Debug\net6.0\19-exception.runtimeconfig.json
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\bin\Debug\net6.0\19-exception.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\bin\Debug\net6.0\19-exception.pdb
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.csproj.AssemblyReference.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.AssemblyInfoInputs.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.AssemblyInfo.cs
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.csproj.CoreCompileInputs.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\refint\19-exception.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.pdb
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\19-exception.genruntimeconfig.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\19-exception\obj\Debug\net6.0\ref\19-exception.dll

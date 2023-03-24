@@ -1,0 +1,15 @@
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\bin\Debug\net6.0\13-struct.exe
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\bin\Debug\net6.0\13-struct.deps.json
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\bin\Debug\net6.0\13-struct.runtimeconfig.json
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\bin\Debug\net6.0\13-struct.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\bin\Debug\net6.0\13-struct.pdb
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.csproj.AssemblyReference.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.AssemblyInfoInputs.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.AssemblyInfo.cs
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.csproj.CoreCompileInputs.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\refint\13-struct.dll
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.pdb
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\13-struct.genruntimeconfig.cache
+C:\Users\East-Sound\Desktop\projects\C#_metigator\13-struct\obj\Debug\net6.0\ref\13-struct.dll
